@@ -8,8 +8,6 @@ I have recently working with Open Source technologies such as Python, Jupyter No
 
 Have know-how experience in the Azure platform and using libraries such as Bitstring (RAW data extraction), ElementTree (XML data extraction), Requests (HTTP requests), Subprocess + MDB Tools (MS Access binary data extraction), Multi-threading, and Multi-processing and familiarity with Parallelism.
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
 # ⚡ Experience
 
 +20 years overall experience in Software Development<br />
