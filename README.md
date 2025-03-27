@@ -1,12 +1,12 @@
 # 👋 Profile
 
-US H1B Visa with SSN<br />
+Mexican citizen<br />
 
-Bachelor in Electronics focused on **Python Development** and with ample expertise in Data Engineering doing ETL. I have worked in several industries contributing to in-house and end-client applications in all phases of the Software Development Life Cycle, both as a technical leader and trusted teammate in Agile SCRUM environments using either TDD or BDD.
+Bachelor's in Electronics focused on **Python Development** and with ample expertise in Data Engineering doing ETL. I have worked in several industries, contributing to in-house and end-client applications in all phases of the Software Development Life Cycle, both as a technical leader and trusted teammate in Agile SCRUM environments using either TDD or BDD.
 
-I have recently working with Open Source technologies such as Python, Jupyter Notebook, Pandas, Mathplotlib, PySimpleGUI, Jinja2, Bulma CSS, Flask, Django, Tornado, ReactJS, Docker, AWS Cloud services, Jenkins, MySQL, MongoDB, JSON, Security, Encryption, JavaScript/ES6, Redux, REST, NPM/Yarn, Webpack, GraphQL, Redis, NodeJS, PyEnv, NodeEnv, PipEnv, PyTest, PyUnit, GIT, VirtualEnv, Semantic UI, Bootstrap, HTML, CSS/LESS/SASS, and Excel spreadsheets.
+I have recently working with Open Source technologies such as Python, Azure, AWS, FastAPI, Flask, Jupyter Notebook, Pandas, Mathplotlib, PySimpleGUI, Jinja2, Tailwind CSS. Bulma CSS, Tornado, ReactJS, Docker, Jenkins, Snowflake, PostgreSQL, MS SQL, MySQL, MongoDB, JSON, Security, Encryption, JavaScript/ES6, Redux, REST, NPM/Yarn, Webpack, GraphQL, Redis, NodeJS, PyEnv, NodeEnv, PipEnv, PyTest, PyUnit, GIT, VirtualEnv, Semantic UI, Bootstrap, HTML, CSS/LESS/SASS, and Excel spreadsheets.
 
-Have know-how experience in the Azure platform and using libraries such as Bitstring (RAW data extraction), ElementTree (XML data extraction), Requests (HTTP requests), Subprocess + MDB Tools (MS Access binary data extraction), Multi-threading, and Multi-processing and familiarity with Parallelism.
+I have know-how in the Azure platform (Key Vault, Service Bus, BLOB, RESTful), AWS (Secrets, EC2, S3) and using libraries such as Bitstring (RAW data extraction), ElementTree (XML data extraction), Requests (HTTP requests), Subprocess + MDB Tools (MS Access binary data extraction), Multi-threading, and Multi-processing and familiarity with Parallelism.
 
 # ⚡ Experience
 
