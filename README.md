@@ -1,34 +1,46 @@
-# 👋 Profile
+# Francisco Benavides
+#### <a href="mailto:francisco.benavides@gmail.com">📫</a> Senior Python Developer
 
-Mexican citizen<br />
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/franciscobenavides/)
+[<img align="left" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@francisco.benavides)
+[<img align="left" alt="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/982446/francisco)
+<br />
 
-Bachelor's in Electronics focused on **Python Development** and with ample expertise in Data Engineering doing ETL. I have worked in several industries, contributing to in-house and end-client applications in all phases of the Software Development Life Cycle, both as a technical leader and trusted teammate in Agile SCRUM environments using either TDD or BDD.
+## Summary
 
-I have recently working with Open Source technologies such as Python, Azure, AWS, FastAPI, Flask, Jupyter Notebook, Pandas, Mathplotlib, PySimpleGUI, Jinja2, Tailwind CSS. Bulma CSS, Tornado, ReactJS, Docker, Jenkins, Snowflake, PostgreSQL, MS SQL, MySQL, MongoDB, JSON, Security, Encryption, JavaScript/ES6, Redux, REST, NPM/Yarn, Webpack, GraphQL, Redis, NodeJS, PyEnv, NodeEnv, PipEnv, PyTest, PyUnit, GIT, VirtualEnv, Semantic UI, Bootstrap, HTML, CSS/LESS/SASS, and Excel spreadsheets.
+**Senior Python Developer** and **Technical Leader** with over **ten (10+) years** of experience in developing applications, process automation, and ETL/ELT data ingestion in the energy trading and mobile telecommunications industries. Track record of delivering solutions from concept to delivery with a focus on applying the best tools and practices to achieve the best possible results. Also, a solid team tech leadership, managing small teams of up to eight members, with a focus on strong communication and interpersonal skills.
 
-I have know-how in the Azure platform (Key Vault, Service Bus, BLOB, RESTful), AWS (Secrets, EC2, S3) and using libraries such as Bitstring (RAW data extraction), ElementTree (XML data extraction), Requests (HTTP requests), Subprocess + MDB Tools (MS Access binary data extraction), Multi-threading, and Multi-processing and familiarity with Parallelism.
+## 🔭 Skills
 
-# ⚡ Experience
+-	**Code**: Python, SQL
+-	Cloud: **Azure** (Key Vault, Service Bus, VM, BLOB, Logging, DevOps, CI/CD, PostgreSQL, MSSQL), **AWS** (EC2, S3, Secrets, RDS/MySQL)
+-	**Databases**: Snowflake, PostgreSQL, MySQL, MSSQL Server, MongoDB, REDIS
+-	Frameworks: **(RESTful) FastAPI, Flask, Requests, SANIC, SQLAlchemy, Alembic, NodeJS, ReactJS**
+-	**Tools**: Pandas, PyTest, Tenacity, XMLtoDict, Poetry, Ruff, Jenkins, Docker, MDB Tools, RegEx, JINJA, JIRA
+-	DevOps: **GIT, Azure (DevOps, CI/CD)**
+-	**OS**: Linux, MacOS, Windows
+-	Techniques: Agile/**SCRUM**, **BDD**, **TDD**, **OOP**, **CLEAN** Code, **SOLID** Principles, **KISS** Principles
+
+## ⚡ Experience
 
 +20 years overall experience in Software Development<br />
 +20 years of experience with Unix/Linux development<br />
- +10 years of experience in Python ETL development<br />
- +8 years of experience in Agile/SCRUM development processes<br />
- +4 years of experience in Web services development
-
-## 🌱 Currently learning
-[Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) @ Coursera<br />
-[Bases Matemáticas: Números y terminología](https://learning.edx.org/course/course-v1:UPValenciaX+BMN101x+1T2021/home) @ edX
++10 years of experience in Python ETL development<br />
++10 years of experience in Agile/SCRUM development processes<br />
++10 years of experience in Web services development
 
 ## 👯 I’m looking to collaborate on
-- Financial API discovery and provision
-- Data Acquisition and Control
 
-## 📫 Connect with me
+- Process Automation
+- Custom Solutions
+- Mobile and Web Applications
+- Data Acquisition
+
+## <a href="mailto:francisco.benavides@gmail.com">📫</a> Connect with me
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/franciscobenavides/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@francisco.benavides)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/982446/francisco)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/fbenavides)
 <!--
 **fbenavides69/fbenavides69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
